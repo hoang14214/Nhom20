@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan4_Server", "Tuan4_Server.csproj", "{7FD1190A-09B3-4363-A604-33B250DADEBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan4_Client", "Tuan4_Client\Tuan4_Client.csproj", "{EEF6CA3F-6EAF-48B4-8F1F-40510F33A4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD1190A-09B3-4363-A604-33B250DADEBA}.Debug|x86.ActiveCfg = Debug|x86
+		{7FD1190A-09B3-4363-A604-33B250DADEBA}.Debug|x86.Build.0 = Debug|x86
+		{7FD1190A-09B3-4363-A604-33B250DADEBA}.Release|x86.ActiveCfg = Release|x86
+		{7FD1190A-09B3-4363-A604-33B250DADEBA}.Release|x86.Build.0 = Release|x86
+		{EEF6CA3F-6EAF-48B4-8F1F-40510F33A4BA}.Debug|x86.ActiveCfg = Debug|x86
+		{EEF6CA3F-6EAF-48B4-8F1F-40510F33A4BA}.Debug|x86.Build.0 = Debug|x86
+		{EEF6CA3F-6EAF-48B4-8F1F-40510F33A4BA}.Release|x86.ActiveCfg = Release|x86
+		{EEF6CA3F-6EAF-48B4-8F1F-40510F33A4BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

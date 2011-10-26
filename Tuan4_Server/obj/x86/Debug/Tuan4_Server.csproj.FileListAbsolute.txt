@@ -1,0 +1,20 @@
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\bin\Debug\Tuan4_Server.exe
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\bin\Debug\Tuan4_Server.pdb
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\obj\x86\Debug\Tuan4_Server.Properties.Resources.resources
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\obj\x86\Debug\Tuan4_Server.exe
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\obj\x86\Debug\Tuan4_Server.pdb
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\bin\Debug\Tuan4_Server.exe.config
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\obj\x86\Debug\Tuan4_Server.Tuan4_Server.resources
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\bin\Debug\Tuan4_Server.exe.config
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\obj\x86\Debug\Tuan4_Server.exe
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\obj\x86\Debug\Tuan4_Server.pdb
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\bin\Debug\Tuan4_Server.exe
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\bin\Debug\Tuan4_Server.pdb
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\obj\x86\Debug\Tuan4_Server.Tuan4_Server.resources
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\obj\x86\Debug\Tuan4_Server.Properties.Resources.resources
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\obj\x86\Debug\GenerateResource.write.1.tlog
