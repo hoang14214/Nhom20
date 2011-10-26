@@ -1,0 +1,33 @@
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Client.exe
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Client.pdb
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Server.exe
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Server.pdb
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.Tuan4_Client.resources
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.Properties.Resources.resources
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.exe
+c:\users\kid1412\documents\visual studio 2010\Projects\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.pdb
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.exe
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.pdb
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Client.exe
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Client.pdb
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Server.exe
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Server.pdb
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.Tuan4_Client.resources
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.Properties.Resources.resources
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Cong nghe va Dich vu web\Project\Tuan4_Server\Tuan4_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Client.exe
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Client.pdb
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Server.exe
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\bin\Debug\Tuan4_Server.pdb
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.Tuan4_Client.resources
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.Properties.Resources.resources
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.exe
+C:\Users\900x\Downloads\hoang14214-Nhom20-123b27c\hoang14214-Nhom20-123b27c\Tuan4_Server\Tuan4_Client\obj\x86\Debug\Tuan4_Client.pdb
