@@ -1,0 +1,12 @@
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\bin\Debug\Nhom20_MayTram.exe
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\bin\Debug\Nhom20_MayTram.pdb
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\bin\Debug\Nhom20_MayChu.exe
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\bin\Debug\Nhom20_MayChu.pdb
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\obj\x86\Debug\Nhom20_MayTram.Nhom20_MayTram.resources
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\obj\x86\Debug\Nhom20_MayTram.Properties.Resources.resources
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\obj\x86\Debug\Nhom20_MayTram.exe
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\obj\x86\Debug\Nhom20_MayTram.pdb
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayTram\bin\Debug\Nhom20_MayTram.exe.config

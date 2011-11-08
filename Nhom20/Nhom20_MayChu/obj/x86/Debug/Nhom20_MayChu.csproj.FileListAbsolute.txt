@@ -1,0 +1,10 @@
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\obj\x86\Debug\Nhom20_MayChu.MayChu.resources
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\obj\x86\Debug\Nhom20_MayChu.Properties.Resources.resources
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\bin\Debug\Nhom20_MayChu.exe.config
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\bin\Debug\Nhom20_MayChu.exe
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\bin\Debug\Nhom20_MayChu.pdb
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\obj\x86\Debug\Nhom20_MayChu.exe
+c:\users\900x\documents\visual studio 2010\Projects\Nhom20_MayChu\obj\x86\Debug\Nhom20_MayChu.pdb
