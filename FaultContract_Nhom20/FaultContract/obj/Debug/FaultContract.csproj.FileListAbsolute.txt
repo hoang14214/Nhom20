@@ -1,0 +1,10 @@
+D:\Lap trinh web\QA\FaultContract\bin\FaultContract.dll
+D:\Lap trinh web\QA\FaultContract\bin\FaultContract.pdb
+D:\Lap trinh web\QA\FaultContract\obj\Debug\ResolveAssemblyReference.cache
+D:\Lap trinh web\QA\FaultContract\obj\Debug\FaultContract.dll
+D:\Lap trinh web\QA\FaultContract\obj\Debug\FaultContract.pdb
+D:\CNDVWeb\FaultContract\bin\FaultContract.dll
+D:\CNDVWeb\FaultContract\bin\FaultContract.pdb
+D:\CNDVWeb\FaultContract\obj\Debug\ResolveAssemblyReference.cache
+D:\CNDVWeb\FaultContract\obj\Debug\FaultContract.dll
+D:\CNDVWeb\FaultContract\obj\Debug\FaultContract.pdb

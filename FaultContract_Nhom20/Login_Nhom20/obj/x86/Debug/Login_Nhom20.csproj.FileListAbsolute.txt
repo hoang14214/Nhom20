@@ -1,0 +1,24 @@
+D:\Lap trinh web\QA\Login_Nhom20\bin\Debug\Login_Nhom20.exe
+D:\Lap trinh web\QA\Login_Nhom20\bin\Debug\Login_Nhom20.pdb
+D:\Lap trinh web\QA\Login_Nhom20\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lap trinh web\QA\Login_Nhom20\obj\x86\Debug\Login_Nhom20.fr_DangKy.resources
+D:\Lap trinh web\QA\Login_Nhom20\obj\x86\Debug\Login_Nhom20.Properties.Resources.resources
+D:\Lap trinh web\QA\Login_Nhom20\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lap trinh web\QA\Login_Nhom20\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lap trinh web\QA\Login_Nhom20\obj\x86\Debug\Login_Nhom20.exe
+D:\Lap trinh web\QA\Login_Nhom20\obj\x86\Debug\Login_Nhom20.pdb
+D:\Lap trinh web\QA\Login_Nhom20\bin\Debug\Login_Nhom20.exe.config
+D:\CNDVWeb\Login_Nhom20\bin\Debug\Login_Nhom20.exe.config
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\Login_Nhom20.exe
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\Login_Nhom20.pdb
+D:\CNDVWeb\Login_Nhom20\bin\Debug\Login_Nhom20.exe
+D:\CNDVWeb\Login_Nhom20\bin\Debug\Login_Nhom20.pdb
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\Login_Nhom20.DangKy.resources
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\Login_Nhom20.Properties.Resources.resources
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CNDVWeb\Login_Nhom20\obj\x86\Debug\Login_Nhom20.DangNhap.resources
+D:\CNDVWeb\FaultContract_Nhom20\Login_Nhom20\bin\Debug\Login_Nhom20.exe.config
+D:\CNDVWeb\FaultContract_Nhom20\Login_Nhom20\obj\x86\Debug\Login_Nhom20.exe
+D:\CNDVWeb\FaultContract_Nhom20\Login_Nhom20\obj\x86\Debug\Login_Nhom20.pdb

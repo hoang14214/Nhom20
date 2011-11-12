@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="KiemTraTaiKhoan">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="tk" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="mk" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="KiemTraTaiKhoanResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="KiemTraTaiKhoanResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DangKy">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="tk" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="mk1" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="mk2" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ht" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="em" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="pn" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DangKyResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
